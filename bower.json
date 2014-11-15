@@ -1,0 +1,25 @@
+{
+  "name": "PolyWifi",
+  "version": "0.0.0",
+  "authors": [
+    "Guido Bouman <guido@q42.nl>"
+  ],
+  "description": "A tiny tool to find free wifi near you.",
+  "main": "index.html",
+  "keywords": [
+    "free",
+    "wifi",
+    "polymer",
+    "foursquare"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/guidobouman/polywifi",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
